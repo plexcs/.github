@@ -38,7 +38,7 @@ Beyond ensuring your code's safety, we are dedicated to educating the entire web
 
 To learn more about Plexcs Smart Auditing or to discuss how we can assist you in your big project, please reach out to us through the following channels:
 
-- Website: [plexcs.io](https://www.plexcs.framer.ai) 🌐
+- Website: [plexcs.io](https://plexcs.framer.ai) 🌐
 - Twitter: [twitter.com/plexcs](https://www.twitter.com/xadhrit) 🐦
 - LinkedIn: [linkedin.com/company/plexstudio](https://www.linkedin.com/company/plexstudio) 📎
 
