@@ -6,7 +6,7 @@ Plexcs Smart Auditing is an ambitious startup dedicated to providing top-notch s
 
 ## Services
 
-We offer a range of high-quality services designed to ensure the utmost security for your smart contracts. Explore more about us at [plexcs.io](https://www.plexcs.io). 🛡️
+We offer a range of high-quality services designed to ensure the utmost security for your smart contracts. Explore more about us at [plexcs.io](https://plexcs.framer.ai). 🛡️
 
 ### Code Review (🔍 mag)
 
